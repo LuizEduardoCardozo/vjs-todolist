@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "uglify-js": "^3.9.4"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  }
+}
